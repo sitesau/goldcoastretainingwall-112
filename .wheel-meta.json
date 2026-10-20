@@ -1,0 +1,22 @@
+{
+  "wheel_id": 486,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-112",
+  "project": "retaining-wall-builders-gold-coast-checklist-3cb717c58d099f9175",
+  "parent_t1_ref": "goldcoastretainingwall-155",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.au",
+  "primary_kw": "retaining wall builders gold coast checklist",
+  "intended_url": "https://sitesau.github.io/goldcoastretainingwall-112/",
+  "tier": "T2",
+  "writeback_nonce": "4982ba6e38f14918",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-gold-coast-6618aeab39529d99c0f35daceb57/",
+      "anchor": "Retaining Wall Builders Gold Coast: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
